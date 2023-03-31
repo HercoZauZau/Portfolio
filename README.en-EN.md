@@ -1,4 +1,4 @@
-Read in other languages:  [Português](https://github.com/HercoZauZau/Portfolio)
+*Read in other languages:  [Português](https://github.com/HercoZauZau/Portfolio)*
 
 ## Installation
 
