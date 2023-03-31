@@ -1,3 +1,5 @@
+ *Leia em outros idiomas: [English](https://github.com/HercoZauZau/Portfolio/blob/main/README.en-EN.md)*
+
 ## Instalação
 
  - Abra o terminal do projecto
